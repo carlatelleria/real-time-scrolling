@@ -4,4 +4,4 @@ This project was generated with NodeJS version 8.10.0.
 
 ## Development server
 
-Run `ng serve` to initialize the server.
+Run `node server.js` to initialize the server.
